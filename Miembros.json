@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sofia",
+    "Tarea": "completada",
+    "activo": true
+  },
+  {
+    "id": 2,
+    "nombre": "Lucas",
+    "Tarea": "Sin hacer",
+    "activo": false
+  },
+  {
+    "id": 3,
+    "nombre": "Diore",
+    "Tarea": "completada",
+    "activo": true
+  },
+  {
+    "id": 4,
+    "nombre": "Luchi",
+    "Tarea": "completada",
+    "activo": true
+  },
+  {
+    "id": 5,
+    "nombre": "Martina",
+    "Tarea": "completada",
+    "activo": true
+  },
+  {
+    "id": 6,
+    "nombre": "Isabella",
+    "activo": true
+  }
+]

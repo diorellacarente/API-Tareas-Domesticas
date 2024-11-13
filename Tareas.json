@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "descripcion": "Juntar la mesa",
+    "asignadoA": 1,
+    "activa": true
+  },
+  {
+    "id": 2,
+    "descripcion": "Pasar la aspiradora",
+    "asignadoA": 2,
+    "activa": true
+  },
+  {
+    "id": 3,
+    "descripcion": "Limpiar el piso",
+    "asignadoA": 3,
+    "activa": false
+  },
+  {
+    "id": 4,
+    "descripcion": "Secar los platos",
+    "asignadoA": 4,
+    "activa": true
+  },
+  {
+    "id": 5,
+    "descripcion": "Guardar la ropa",
+    "asignadoA": 5,
+    "activa": false
+  }
+]
